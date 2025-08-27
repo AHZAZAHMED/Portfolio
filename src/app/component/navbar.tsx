@@ -9,21 +9,21 @@ const Navbar = () => {
     
     <div>
       <nav className="absolute top-0 left-0 w-full px-6 py-4 flex justify-between items-center bg-transparent">
-        <h1 className="text-white text-xl font-bold">My Portfolio</h1>
+        <h1 className="text-white text-xl font-bold">AHZAZ</h1>
         <ul className="hidden md:flex gap-6">
-          <li className="text-white hover:text-[#00bba7] cursor-pointer">
+          <li className="text-white hover:underline underline-offset-4 decoration-2 cursor-pointer">
             Home
           </li>
-          <li className="text-white hover:text-[#00bba7] cursor-pointer">
+          <li className="text-white hover:underline underline-offset-4 decoration-2 cursor-pointer">
             About
           </li>
-          <li className="text-white hover:text-[#00bba7] cursor-pointer">
+          <li className="text-white hover:underline underline-offset-4 decoration-2 cursor-pointer">
             Projects
           </li>
-          <li className="text-white hover:text-[#00bba7] cursor-pointer">
+          <li className="text-white hover:underline underline-offset-4 decoration-2 cursor-pointer">
             Skills
           </li>
-          <li className="text-white hover:text-[#00bba7] cursor-pointer">
+          <li className="text-white hover:underline underline-offset-4 decoration-2 cursor-pointer">
             Contact
           </li>
         </ul>
