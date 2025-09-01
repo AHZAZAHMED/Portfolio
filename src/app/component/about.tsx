@@ -54,6 +54,7 @@ const About = () => {
           </p>
         </motion.div>
       </div>
+      
     </div>
   );
 };
